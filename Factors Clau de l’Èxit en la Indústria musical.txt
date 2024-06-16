@@ -1,3 +1,5 @@
+link: https://public.tableau.com/views/FactorsClaudxitenlaIndstriaMusical/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link
+
 - Variables Categòriques:
 1. spotify_id: Identificador de Spotify de cada cançó.
 2. name: Nom de la cançó.
