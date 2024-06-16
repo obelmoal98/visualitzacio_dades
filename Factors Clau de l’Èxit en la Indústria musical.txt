@@ -1,0 +1,30 @@
+- Variables Categòriques:
+1. spotify_id: Identificador de Spotify de cada cançó.
+2. name: Nom de la cançó.
+3. artists: Artistes de la cançó.
+4. country: País on es registra la cançó.
+5. album_name: Nom de l'àlbum on es troba la cançó.
+6. is_explicit: Indicador si la cançó és explícita o no.
+
+- Variables Quantitatives:
+1. daily_rank: Rànquing diari de la cançó.
+2. weekly_movement: Moviment setmanal en el rànquing de la cançó.
+3. popularity: Popularitat de la cançó.
+4. duration_ms: Durada en ms de la cançó.
+5. danceability: Mesura com de “ballable” es la cançó.
+6. energy: Nivell d'energia de la cançó.
+7. key: Clau tonal de la cançó.
+8. loudness: Intensitat de so de la cançó.
+9. mode: Mode de la cançó (major o menor).
+10. speechiness: Mesura de parla en la cançó.
+11. acousticness: Mesura d'acústica de la cançó.
+12. instrumentalness: Mesura d'instrumentalitat de la cançó.
+13. liveness: Nivell de vida enregistrament en la cançó.
+14. valence: València de la cançó.
+15. tempo: Tempo de la cançó.
+16. time_signature: Signatura de temps de la cançó.
+17. featuring: Indicador si és fet per més d’un artista.
+
+- Variables Temporals:
+1. album_release_date: Data de publicació de l'àlbum.
+2. snapshot_date: Data de captura de la informació.
